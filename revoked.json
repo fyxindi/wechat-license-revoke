@@ -1,4 +1,6 @@
 {
-  "revoked_keys": [],
-  "last_updated": "2026-06-11"
+  "revoked_keys": [
+    "WDA-eyJjdCI6MTc4MTE2MDMwMSwiZHVyIjozNjUsInZlciI6MX0-5tfRCH0_Nd0"
+  ],
+  "updated_at": "2026-06-11T06:47:08Z"
 }
